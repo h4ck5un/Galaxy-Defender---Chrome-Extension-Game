@@ -1,5 +1,5 @@
 # Galaxy Defender - Chrome Extension Game
-Defend Earth from alien invasion! Place towers, upgrade them, and survive endless waves in this action-packed tower defense game.
+Defend Earth from alien invasion! Place towers, upgrade them, and survive endless waves in this action-packed tower defense game.<br>
 [![Play in Browser](https://img.shields.io/badge/🎮-Play%20in%20Browser-00b4d8?style=for-the-badge)](https://web-gam-dev.blogspot.com/2026/06/galaxy-defender-tower-defense.html)
 
 ## 📦 Install This Game In Your Browser
